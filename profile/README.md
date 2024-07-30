@@ -5,7 +5,7 @@
 ## PUPPY PAWS
 ![image](https://github.com/user-attachments/assets/3a98d3eb-e25d-4c5b-9986-71d117407a00)
 
-https://puppy-paws.com
+https://www.puppy-paws.co.kr
 
 ### 팀 소개
 
