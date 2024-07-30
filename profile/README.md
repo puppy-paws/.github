@@ -9,16 +9,15 @@ https://puppy-paws.com
 
 ### 팀 소개
 
-**프론트**
-
-김지우 - https://github.com/Growing-Jiwoo 
-
-**백엔드**
-
-정창환 - https://github.com/denniemate 
-
-한유빈 - https://github.com/yubinhann 
-
+ <table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/denniemate"><img src="https://s3.ap-northeast-2.amazonaws.com/puppy-pows/profile/%EC%A0%95%EC%B0%BD%ED%99%98%EC%82%AC%EC%A7%843.jpg" width="100px;" height ="100px;" alt=""/><br /><sub><b>BE 정창환</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/yubinhann"><img src="https://s3.ap-northeast-2.amazonaws.com/puppy-pows/profile/%EC%9C%A0%EB%B9%88%EC%9D%B4%EC%82%AC%EC%A7%84.png" width="100px;" height ="100px;" alt=""/><br /><sub><b>BE 한유빈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Growing-Jiwoo"><img src="https://s3.ap-northeast-2.amazonaws.com/puppy-pows/profile/%EC%A7%80%EC%9A%B0%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg" width="100px;" height ="100px;" alt=""/><br /><sub><b>FE 김지우</b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://s3.ap-northeast-2.amazonaws.com/puppy-pows/profile/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%82%AC%EC%A7%84.jpg" width="100px;" height ="100px;" alt=""/><br /><sub><b>디자이너 김민주</b></sub></a><br /></td>
+  </tbody>
+</table>
 
 ### 프로젝트 소개
 **바쁜 일상 속, 반려견과의 행복한 산책을 꿈꾸시나요?**
